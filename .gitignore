@@ -1,0 +1,16 @@
+artifacts/
+cache/
+node_modules/
+
+.env
+.env.development
+.env.local
+
+.vscode
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
